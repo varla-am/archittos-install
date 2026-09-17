@@ -22,7 +22,7 @@ cd archittos-install
 > **! THIS SCRIPT IS USED FOR CLEAN INSTALL WITHOUT DUAL BOOT !**
 >
 > **! THIS SCRIPT WILL DESTROY ALL DATA ON SPECIFIED DISK  !**
-#### For dual use built in `archinstall` script
+#### For dual boot built in `archinstall` script
 #### This script has alias that was installed using installscript.sh
 #### When running command you need to specify:
 | Flag | Meaning | Example |
