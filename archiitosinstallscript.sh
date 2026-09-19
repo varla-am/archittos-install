@@ -24,7 +24,7 @@ HOSTNAME="archittos"
 USERNAME="varlaam"
 TIMEZONE="Europe/Riga"
 LOCALE="en_US.UTF-8"
-DEFAULT_PASS="changeme" # root & user password; CHANGE after first boot
+DEFAULT_PASS="archittos" # root & user password; CHANGE after first boot
 
 # ---------- parse args ----------
 while [[ $# -gt 0 ]]; do
