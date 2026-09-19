@@ -20,9 +20,9 @@ EFI_DISK=""
 MAIN_DISK=""
 DE="none"
 AFTER_BOOT=""
-HOSTNAME="archittos"
-USERNAME="varlaam"
-TIMEZONE="Europe/Riga"
+HOSTNAME="Archittos-ArchLinux"
+USERNAME="archittos"
+TIMEZONE=""
 LOCALE="en_US.UTF-8"
 DEFAULT_PASS="archittos" # root & user password; CHANGE after first boot
 
