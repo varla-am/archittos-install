@@ -37,3 +37,5 @@ cd archittos-install
 
 #### If you will specify EFI BOOT disk and Main disk as one disk it will cut your disk into two partitions
 ### When script finished installing it will automatically reboot
+#### Default password is: `archittos`
+#### Change it using `passwd` in terminal
